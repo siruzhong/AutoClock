@@ -32,4 +32,4 @@
 
 ## 3. 运行效果图
 
-![image-20210409104817034](https://gitee.com/zhong_siru/images/raw/master//img/image-20210409104817034.png)
+![image-20210409104817034](https://gitee.com/siruzhong/images/raw/master//img/image-20210409104817034.png)
