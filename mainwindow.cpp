@@ -10,7 +10,7 @@
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
 {
-    setWindowIcon(QIcon(":/new/prefix1/v2-d858191577356128b31c88e186eea0db_r.jpg"));//设置图标
+    setWindowIcon(QIcon(":/new/prefix1/image6.jpg"));//设置图标
     QTimer *timer = new QTimer(this);//产生一个定时器
     connect(timer, SIGNAL(timeout()), this, SLOT(update()));//关联定时器的信号与槽
     timer->start(1000);//开始定时器，每一秒钟更新一次

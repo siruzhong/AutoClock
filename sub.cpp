@@ -5,7 +5,7 @@
 #include<QPainter>
 sub::sub(QWidget *parent) : QMainWindow(parent)
 {
-    setWindowIcon(QIcon(":/new/prefix1/f56513788384645db768d0ec542dec33_r.jpg"));//设置图标
+    setWindowIcon(QIcon(":/new/prefix1/image3"));//设置图标
     this->setWindowTitle("Digital clock");//设置窗口标题
     this->resize(900,500);//设置窗口大小
     b1.setParent(this);//指按钮定父对象
@@ -42,6 +42,6 @@ void sub::showtime()
 void sub::paintEvent(QPaintEvent *event)//
 {
     QPainter p(this);//创建一个画家对象
-    p.drawPixmap(rect(),QPixmap(":/new/prefix1/f8fa6c0b00b51e33e8949627d52942ea.jpg"));//设置背景图
+    p.drawPixmap(rect(),QPixmap(":/new/prefix1/image4.jpg"));//设置背景图
 }
 

@@ -1,10 +1,10 @@
 <RCC>
     <qresource prefix="/new/prefix1">
-        <file>bdb32c2acf03207a556ebb139613879f.jpg</file>
-        <file>c923c914077cfdedf251e58dd30aa710.jpg</file>
-        <file>f56513788384645db768d0ec542dec33_r.jpg</file>
-        <file>f8fa6c0b00b51e33e8949627d52942ea.jpg</file>
-        <file>596880ae3939723240d1d78871f04e8b.jpg</file>
-        <file>v2-d858191577356128b31c88e186eea0db_r.jpg</file>
+        <file>figs/image1.jpg</file>
+        <file>figs/image2.jpg</file>
+        <file>figs/image3.jpg</file>
+        <file>figs/image4.jpg</file>
+        <file>figs/image5.jpg</file>
+        <file>figs/image6.jpg</file>
     </qresource>
 </RCC>
